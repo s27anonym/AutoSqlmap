@@ -1,7 +1,5 @@
+AUTO SQLMAP
 
-**AGARTHA AUTO SQLMAP**
-
-***instagram.com/nickzsche***
 
 
 ENGLISH AND TURKISH INSTRUCTIONS FOR USE
@@ -30,7 +28,7 @@ Termux, Linux ve Windows için:
 
 **1.Adım**
 
-**git clone https://github.com/nickzsche/agartha_cw_sqlmap_auto.git**
+**git clone https://github.com/s27anonym/AutoSqlmap.git**
 
 (Windows ve Linux Kullanıcıları Download zip diyerek de indirebilir)
 
@@ -49,13 +47,12 @@ Terminal veya Cmd ekranına **cd agartha_cw_sqlmap_auto** yazın
 
 Program açıldıktan sonra sizden bir site seçim yapmanızı isteyecek.
 
-![](https://i.hizliresim.com/2ZYv0X.png)
 
 
 **5.Adım**
 
 1,2,3 veya 4 diyerek yapmak istediğiniz işlemi seçin. Örneğin 1 seç.
-![](https://i.hizliresim.com/d9Q1NL.png)
+
 
 Bizden bir site adresi istedi girelim. Sql açıklı Url yapıştıralım.
 
@@ -64,18 +61,15 @@ Bizden bir site adresi istedi girelim. Sql açıklı Url yapıştıralım.
 
 Database ismi istiyor onu da girelim, karaladığım yer site database ismi.
 
-![](https://i.hizliresim.com/6pzRUj.png)
 
 **7.Adım**
 
 Şimdi de tablo isimleri istiyor. Tablolar yukarıda sıralı. Oradan tablo adını veya aralarına virgül koyarak adlarını yazıyoruz.
 
-![](https://i.hizliresim.com/3P88kU.png)
 
 **8.Adım**
 Çekilecek kolon adlarını istiyor sonrasında ise dump edecek. Yani verileri bizim için çekecek.
 
-![](https://i.hizliresim.com/bvF9mw.png)
 **9.Adım**
 2. Oto Siteleri Aratmak İçin ise site.txt dosyası içine sitelerinizi yapıştırın. O sırası ile hepsinde açık arayacaktır.
 
@@ -92,7 +86,7 @@ Bunda ise yine Sql açıklı sitemizi yapıştırarak shell atılabilecek yolu �
 
 ** Step 1 **
 
-** git clone https://github.com/nickzsche/agartha_cw_sqlmap_auto.git**
+** git clone https://github.com/s27anonym/AutoSqlmap.git**
 (Windows and Linux Users can also download by saying Download zip)
 
 ** Step 2 **
@@ -104,14 +98,12 @@ Type ** cd agartha_cw_sqlmap_auto ** into the Terminal or Cmd screen
 
 **STEP 4 **  After the program opens, it will ask you to choose a site.
 
-![](https://i.hizliresim.com/2ZYv0X.png)
 
   
   
  ** Step 5** 
  
  Select the action you want to say by saying 1, 2, 3 or 4. For example, choose 1.
-![](https://i.hizliresim.com/d9Q1NL.png)
 
   
 Let's enter a site address asked from us. Let's paste Url with sql span
@@ -124,21 +116,18 @@ Let's enter a site address asked from us. Let's paste Url with sql span
 
 Wants the database name, let's enter it.
 
-![](https://i.hizliresim.com/6pzRUj.png)
 Examples: [*] frees... databasename.
 
 
 ** Step 7 **
 Now wants table names. The tables are listed above. From there, we write the name of the table or a comma between them.
 
-![](https://i.hizliresim.com/3P88kU.png)
 
 
   
 ** Step 8 ** 
 Wants the column names to be withdrawn and then dump. So it will pull the data for us.
 
-![](https://i.hizliresim.com/bvF9mw.png)
 
 
 ** Step 9 ** 
