@@ -34,7 +34,7 @@ Termux, Linux ve Windows için:
 
 **2.Adım** 
 
-Terminal veya Cmd ekranına **cd agartha_cw_sqlmap_auto** yazın
+Terminal veya Cmd ekranına **cd AutoSqlmap** yazın
 
 (Pc kullanıcıları cd yazmak yerine klasörü de sürükleyip bırakabilir terminal veya cmd üstüne)
 
