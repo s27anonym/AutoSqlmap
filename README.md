@@ -28,7 +28,7 @@ Termux, Linux ve Windows için:
 
 **1.Adım**
 
-**git clone https://github.com/exodiaxd/AutoSqlmap.git**
+**git clone https://github.com/s27anonym/AutoSqlmap.git**
 
 (Windows ve Linux Kullanıcıları Download zip diyerek de indirebilir)
 
@@ -86,7 +86,7 @@ Bunda ise yine Sql açıklı sitemizi yapıştırarak shell atılabilecek yolu �
 
 ** Step 1 **
 
-** git clone https://github.com/exodiaxd/AutoSqlmap.git**
+** git clone https://github.com/s27anonym/AutoSqlmap.git**
 (Windows and Linux Users can also download by saying Download zip)
 
 ** Step 2 **
